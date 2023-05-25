@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`routes test Should return an array of employees 1`] = `
+[
+  {
+    "age": 25,
+    "departmentId": 1,
+    "departmentName": "r&d",
+    "divisionId": 2,
+    "divisionName": "",
+    "hod": "ken",
+    "jobGrade": "1",
+    "joinedDate": "2022-04-05T00:00:00.000Z",
+    "name": "Thomas Edison",
+    "salary": 1000,
+  },
+  {
+    "age": 52,
+    "departmentId": null,
+    "departmentName": "",
+    "divisionId": 2,
+    "divisionName": "tech",
+    "hod": "alice",
+    "jobGrade": "2",
+    "joinedDate": "2022-04-05T00:00:00.000Z",
+    "name": "Nikola Tesla",
+    "salary": 2000,
+  },
+  {
+    "age": 15,
+    "departmentId": 1,
+    "departmentName": "r&d",
+    "divisionId": 2,
+    "divisionName": "",
+    "hod": "ken",
+    "jobGrade": "3",
+    "joinedDate": "2022-04-05T00:00:00.000Z",
+    "name": "Michael Jackson",
+    "salary": 3000,
+  },
+]
+`;
