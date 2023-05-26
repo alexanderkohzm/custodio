@@ -19,6 +19,6 @@ You will need the following variables in your ENV file
 
 3. Create User, Departments, and Salary collection and documents. Go to the following endpoint localhost:{PORT}/seedData/generateData --> This will generate the data
 
-4. Go to localhost:{PORT}/emplyoees --> you will be able to find the employee data in the body of the resposne
+4. Go to localhost:{PORT}/employees --> you will be able to find the employee data in the body of the response
 
 5. You can also try to run tests - if you have created the data correctly (e.g. going to seedData/generateData and only doing it once so there's no duplicates) the response should match the snapshot
